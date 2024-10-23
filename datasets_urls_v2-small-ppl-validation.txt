@@ -1,0 +1,13 @@
+https://olmo-data.org/eval-data/perplexity/v2_small_gptneox20b/4chan/val.npy
+https://olmo-data.org/eval-data/perplexity/v2_small_gptneox20b/c4_100_domains/val.npy
+https://olmo-data.org/eval-data/perplexity/v2_small_gptneox20b/c4_en/val.npy
+https://olmo-data.org/eval-data/perplexity/v2_small_gptneox20b/gab/val.npy
+https://olmo-data.org/eval-data/perplexity/v2_small_gptneox20b/ice/val.npy
+https://olmo-data.org/eval-data/perplexity/v2_small_gptneox20b/m2d2_s2orc/val.npy
+https://olmo-data.org/eval-data/perplexity/v2_small_gptneox20b/m2d2_wiki/val.npy
+https://olmo-data.org/eval-data/perplexity/v2_small_gptneox20b/manosphere/val.npy
+https://olmo-data.org/eval-data/perplexity/v2_small_gptneox20b/mc4_en/val.npy
+https://olmo-data.org/eval-data/perplexity/v2_small_gptneox20b/pile/val.npy
+https://olmo-data.org/eval-data/perplexity/v2_small_gptneox20b/ptb/val.npy
+https://olmo-data.org/eval-data/perplexity/v2_small_gptneox20b/twitterAEE/val.npy
+https://olmo-data.org/eval-data/perplexity/v2_small_gptneox20b/wikitext_103/val.npy
